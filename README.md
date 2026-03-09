@@ -1,5 +1,4 @@
 # cybersecurity-python-projects
-Cybersecurity Python Projects
 This repository contains three beginner-friendly cybersecurity projects written in Python.
 The purpose of this repo is to demonstrate hands-on experience with core security concepts such as network reconnaissance, log analysis, and password security.
 
