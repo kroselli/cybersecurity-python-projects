@@ -73,21 +73,27 @@ Clone the repository or download the ZIP file, then navigate into any project fo
 Example:
 
 python3 port_scanner.py
-Why I Built This Repo
+
+## Why I Built This Repo
+
 I created these projects to strengthen my understanding of cybersecurity and networking fundamentals through hands-on Python scripting.
 These projects reflect my interest in areas such as:
 
-Network security
-Threat monitoring
-Vulnerability awareness
-Authentication and access control
-Future Improvements
+- Network security
+- Threat monitoring
+- Vulnerability awareness
+- Authentication and access control
+
+## Future Improvements
+
 Possible enhancements for this repository include:
 
-Adding a banner grabber or service detection tool to the port scanner
-Detecting repeated failed attempts from the same IP in the log analyzer
-Adding entropy scoring and password suggestions to the password analyzer
-Creating a simple command-line menu to launch each project from one place
-Disclaimer
+- Adding a banner grabber or service detection tool to the port scanner
+- Detecting repeated failed attempts from the same IP in the log analyzer
+- Adding entropy scoring and password suggestions to the password analyzer
+- Creating a simple command-line menu to launch each project from one place
+  
+## Disclaimer
+
 These projects are for educational purposes only.
 Do not scan, test, or analyze systems without authorization.
