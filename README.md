@@ -8,31 +8,28 @@ Projects Included:
 A simple TCP port scanner that checks a target host for open ports from 1 to 1024.
 
 Concepts demonstrated:
-
-Socket programming
-TCP connections
-Network service discovery
-Basic reconnaissance
+-Socket programming
+-TCP connections
+-Network service discovery
+-Basic reconnaissance
 
 2. Security Log Analyzer
 A Python script that reads a sample log file and identifies failed login attempts.
 
 Concepts demonstrated:
-
-Log analysis
-Authentication monitoring
-Suspicious activity detection
-Basic threat identification
+-Log analysis
+-Authentication monitoring
+-Suspicious activity detection
+-Basic threat identification
 
 3. Password Security Analyzer
 A Python tool that evaluates password strength based on length and character diversity.
 
 Concepts demonstrated:
-
-Password security principles
-Input validation
-Regular expressions
-Credential security awareness
+-Password security principles
+-Input validation
+-Regular expressions
+-Credential security awareness
 ---
 
 ## Repository Structure
