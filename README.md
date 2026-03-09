@@ -1,4 +1,4 @@
-# cybersecurity-python-projects
+# Cybersecurity Python Projects
 This repository contains three beginner-friendly cybersecurity projects written in Python.
 The purpose of this repo is to demonstrate hands-on experience with core security concepts such as network reconnaissance, log analysis, and password security.
 
@@ -34,18 +34,19 @@ Repository Structure
 cybersecurity-python-projects/
 │
 ├── README.md
+│
 ├── port-scanner/
-│   ├── port_scanner.py
-│   └── README.md
+│ ├── port_scanner.py
+│ └── README.md
 │
 ├── log-analyzer/
-│   ├── log_analyzer.py
-│   ├── server_log.txt
-│   └── README.md
+│ ├── log_analyzer.py
+│ ├── server_log.txt
+│ └── README.md
 │
 └── password-analyzer/
-    ├── password_analyzer.py
-    └── README.md
+├── password_analyzer.py
+└── README.md
 Requirements
 Python 3.x
 No external libraries are required. All projects use Python standard library modules only.
