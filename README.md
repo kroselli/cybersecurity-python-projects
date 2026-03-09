@@ -1,10 +1,12 @@
 # Cybersecurity Python Projects
 This repository contains three beginner-friendly cybersecurity projects written in Python.
+
 The purpose of this repo is to demonstrate hands-on experience with core security concepts such as network reconnaissance, log analysis, and password security.
 
-Projects Included:
+## Projects Included
 
-1. Network Port Scanner
+## 1. Network Port Scanner
+
 A simple TCP port scanner that checks a target host for open ports from 1 to 1024.
 
 ### Concepts demonstrated
@@ -14,7 +16,8 @@ A simple TCP port scanner that checks a target host for open ports from 1 to 102
 - Network service discovery
 - Basic reconnaissance
 
-2. Security Log Analyzer
+## 2. Security Log Analyzer
+
 A Python script that reads a sample log file and identifies failed login attempts.
 
 ### Concepts demonstrated
@@ -24,7 +27,8 @@ A Python script that reads a sample log file and identifies failed login attempt
 - Suspicious activity detection
 - Basic threat identification
 
-3. Password Security Analyzer
+## 3. Password Security Analyzer
+
 A Python tool that evaluates password strength based on length and character diversity.
 
 ### Concepts Demonstrated
